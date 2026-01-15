@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bartschi am Coden
 
-<!--
-**bartschi-codes/bartschi-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Developer | 42-Software-Engineering-School Graduate
 
-Here are some ideas to get you started:
+## Core Skills
+| Language | Level |
+|----------|-------|
+| C        | ★★★★★ |
+| C++      | ★★★★☆ |
+| Bash     | ★★★★☆ |
+| Python   | ★★★☆☆ |
+| JavaScript | ★★★☆☆ |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Tools & Tech | Experience |
+|--------------|------------|
+| Git / GitHub | Daily collaboration |
+| Linux CLI    | Daily development |
+| Docker       | Containerizing projects |
+| Makefiles    | Build automation |
+| Vim/Emacs   | Text editing |
+
+---
+
+> “Learning to learn is the most important skill.” – 42 philosophy
