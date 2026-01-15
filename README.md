@@ -1,23 +1,19 @@
-# Bartschi am Coden
+# Bartschi Codes
 
 ## Junior Developer | 42-Software-Engineering-School Graduate
 
 ## Core Skills
-| Language | Level |
-|----------|-------|
-| C        | ★★★★★ |
-| C++      | ★★★★☆ |
-| Bash     | ★★★★☆ |
-| Python   | ★★★☆☆ |
-| JavaScript | ★★★☆☆ |
+C      
+C++     
+Bash   
+JavaScript / TypeScript
 
-| Tools & Tech | Experience |
-|--------------|------------|
-| Git / GitHub | Daily collaboration |
-| Linux CLI    | Daily development |
-| Docker       | Containerizing projects |
-| Makefiles    | Build automation |
-| Vim/Emacs   | Text editing |
+
+Git / GitHub
+Linux CLI 
+Docker / Docker-Compose
+Makefiles
+Vim 
 
 ---
 
