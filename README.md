@@ -1,6 +1,6 @@
 # Bartschi Codes
 
-**Backend-oriented Junior Developer · 42 Software Engineering School**
+**Junior Developer · 42 Software Engineering School**
 
 42 student with a strong focus on backend development.  
 Loves **C**, clean code, and building simple, robust things. I enjoy low-level code adventures with maintainable and dry coding.
